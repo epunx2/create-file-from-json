@@ -1,0 +1,15 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    json (2.6.3)
+    logger (1.5.3)
+
+PLATFORMS
+  arm64-darwin-21
+
+DEPENDENCIES
+  json
+  logger
+
+BUNDLED WITH
+   2.4.7
